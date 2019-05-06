@@ -1,2 +1,2 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{125:function(s,t,e){"use strict";e.r(t);e(60);var o=e(35);Object(o.b)("map"," https://vectortiles.geo.admin.ch/gl-styles/ch.swisstopo.leichte-basiskarte.vt/v006/style.json")}},[[125,0]]]);
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{126:function(e,t,o){"use strict";o.r(t);o(60);var s=o(36);Object(s.b)("map"," https://vectortiles.geo.admin.ch/gl-styles/ch.swisstopo.leichte-basiskarte.vt/v006/style.json").then(function(e){e.getView().on("change:resolution",function(){console.log("map "+e.getView().getZoom())})})}},[[126,0]]]);
 //# sourceMappingURL=tilejson-vectortile.js.map
